@@ -1,5 +1,5 @@
 # WebWork
-web课程大作业
+web课程大作业 **项目代码在上一级目录的仓库中**
 ## 小组成员信息
 ![](images/group_msg.png)
 ## [Task2 Web项目建议书](https://github.com/shishc9/WebWork/wiki/Task2--Web%E9%A1%B9%E7%9B%AE%E5%BB%BA%E8%AE%AE%E4%B9%A6)
